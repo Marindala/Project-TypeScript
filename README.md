@@ -1,0 +1,1 @@
+Project with React-Vite and Typescript
